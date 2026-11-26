@@ -1,6 +1,7 @@
 # u-po-pu-five-seconds-to-explain-the-glass-934d9949-entry
 
-[![make.fun](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/tongsang199712-cyber/u-po-pu-five-seconds-to-explain-the-glass-934d9949-entry.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![make.fun · u-po-pu-five-seconds-to-explain-the-glass-934d9949](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
+[![rank](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/tongsang199712-cyber/u-po-pu-five-seconds-to-explain-the-glass-934d9949-entry/rank.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
 [![reward](https://make.fun/badge/u-po-pu-five-seconds-to-explain-the-glass-934d9949/tongsang199712-cyber/u-po-pu-five-seconds-to-explain-the-glass-934d9949-entry/reward.svg)](https://make.fun/bounty/u-po-pu-five-seconds-to-explain-the-glass-934d9949?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-five-seconds-to-explain-the-glass-934d9949)
 
 ## The bounty
